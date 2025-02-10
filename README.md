@@ -9,7 +9,7 @@ This project performing mannual and automated testing for Demo Web Shop it is an
 <br>
 ## Task 1
 ### Test Plan
-[Test Plan] (https://docs.google.com/document/d/12R5-tpKfSDjbGK4wN_pov5l8zrzrplj7Z9RZOi6V1cY/edit?usp=sharing)
+[Test Plan](https://docs.google.com/document/d/12R5-tpKfSDjbGK4wN_pov5l8zrzrplj7Z9RZOi6V1cY/edit?usp=sharing)
 <br>
 <br>
 I have created test plan by using the Xmind map
@@ -19,13 +19,13 @@ I have created test plan by using the Xmind map
 ### Task-2
 #### Test Sceanrio
 I have created a detailed test cases sceanrio which include posibility of test cases and here is the link
-[https://docs.google.com/spreadsheets/d/1VCTnBzIoEAJgxZnhflDTMEqvGKbfy0Tb2JVjag_pd9Y/edit?usp=sharing]
+[Test scenario](https://docs.google.com/spreadsheets/d/1VCTnBzIoEAJgxZnhflDTMEqvGKbfy0Tb2JVjag_pd9Y/edit?usp=sharing)
 <br>
 <br>
 ### Task 3
 ##### Bug Report
 I have created detailed bug report which is included in Demo Web Shop application.I have also providing the link also
-[Bug Report] (https://docs.google.com/spreadsheets/d/17OAvoszEh2IBvX-hDbWeKW26X2m_eAC_XwTpo5ET2Gw/edit?usp=sharing)
+[Bug Report](https://docs.google.com/spreadsheets/d/17OAvoszEh2IBvX-hDbWeKW26X2m_eAC_XwTpo5ET2Gw/edit?usp=sharing)
 <br>
 <br>
 ### Task 4
@@ -34,3 +34,7 @@ I have created a detailed summary report.Here is the link of that report
 [Test Execution report](https://docs.google.com/spreadsheets/d/19A1_2vu-UyVK1oYzLFzY1_W9JgGDIEOABKGoYHqFJoM/edit?usp=sharing)
 <br>
 <br>
+#### Task 5
+#### Automation part
+I have created a detaailed automation testing on that application too 
+[]
